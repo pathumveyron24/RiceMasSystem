@@ -19,11 +19,10 @@ public class BuyerAgent extends masmt3.agent.MaSMTAgent{
         this.buyer = buyer;
     }
     
-    
     @Override
     public void active() {
         
-            }
+    }
 
     @Override
     public void live() {
@@ -37,7 +36,4 @@ public class BuyerAgent extends masmt3.agent.MaSMTAgent{
     public void end() {
         
     }
-    
-    
-    
 }
